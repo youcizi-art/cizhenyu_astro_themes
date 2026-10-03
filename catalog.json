@@ -1,0 +1,28 @@
+{
+  "version": "1",
+  "defaultTheme": "default",
+  "repo": "https://github.com/youcizi-art/cizhenyu_astro_themes.git",
+  "zipUrl": "https://codeload.github.com/youcizi-art/cizhenyu_astro_themes/zip/refs/heads/master",
+  "themes": [
+    {
+      "id": "default",
+      "display_name": "default（磁帧鱼）",
+      "label": "default（磁帧鱼）",
+      "version": "20261003",
+      "latest": "20261003",
+      "hasSeed": true,
+      "sha256": "933e208f5ffe79a01ac4bd2f30adca8bb36f3586eb21881ef644725eac91ce91",
+      "path": "themes/default/20261003/bundle.zip"
+    },
+    {
+      "id": "turmill",
+      "display_name": "turmill",
+      "label": "turmill",
+      "version": "20261003",
+      "latest": "20261003",
+      "hasSeed": true,
+      "sha256": "b6c75f7cb8bd658a3ea6a4657237ddbcf8e58919a0e86bcba1ae7951284b8829",
+      "path": "themes/turmill/20261003/bundle.zip"
+    }
+  ]
+}
