@@ -8,13 +8,20 @@
       "id": "default",
       "display_name": "default（磁帧鱼）",
       "label": "default（磁帧鱼）",
-      "version": "20261004221108",
-      "latest": "20261004221108",
+      "version": "20261004221522",
+      "latest": "20261004221522",
       "hasSeed": true,
-      "sha256": "5ab8bc5af7e6c126cf7cff6baa586a9dcb373bb721c0ff168c080b1b7a06ec85",
-      "path": "themes/default/20261004221108/bundle.zip",
-      "builtAt": "2026-10-04T22:11:14.178Z",
+      "sha256": "13b18c7fd222fdc6a7974f33f7c004c85cdd882de3cda7c64a35afe84c2ab53b",
+      "path": "themes/default/20261004221522/bundle.zip",
+      "builtAt": "2026-10-04T22:15:25.753Z",
       "versions": [
+        {
+          "version": "20261004221522",
+          "path": "themes/default/20261004221522/bundle.zip",
+          "sha256": "13b18c7fd222fdc6a7974f33f7c004c85cdd882de3cda7c64a35afe84c2ab53b",
+          "hasSeed": true,
+          "builtAt": "2026-10-04T22:15:25.753Z"
+        },
         {
           "version": "20261004221108",
           "path": "themes/default/20261004221108/bundle.zip",
@@ -29,22 +36,23 @@
       "id": "turmill",
       "display_name": "turmill",
       "label": "turmill",
-      "version": "20261003",
-      "latest": "20261003",
+      "version": "20261004221631",
+      "latest": "20261004221631",
       "hasSeed": true,
-      "sha256": "b6c75f7cb8bd658a3ea6a4657237ddbcf8e58919a0e86bcba1ae7951284b8829",
-      "path": "themes/turmill/20261003/bundle.zip",
-      "builtAt": "2026-10-03T04:10:35.882Z",
+      "sha256": "db5f20427bd795c753115e1125abd502a43c5e2d5abac0d9d5c1d5ddc99e9e99",
+      "path": "themes/turmill/20261004221631/bundle.zip",
+      "builtAt": "2026-10-04T22:16:35.080Z",
       "versions": [
         {
-          "version": "20261003",
-          "path": "themes/turmill/20261003/bundle.zip",
-          "sha256": "b6c75f7cb8bd658a3ea6a4657237ddbcf8e58919a0e86bcba1ae7951284b8829",
+          "version": "20261004221631",
+          "path": "themes/turmill/20261004221631/bundle.zip",
+          "sha256": "db5f20427bd795c753115e1125abd502a43c5e2d5abac0d9d5c1d5ddc99e9e99",
           "hasSeed": true,
-          "builtAt": "2026-10-03T04:10:35.882Z"
+          "builtAt": "2026-10-04T22:16:35.080Z"
         }
-      ]
+      ],
+      "displayName": "turmill"
     }
   ],
-  "updatedAt": "2026-10-04T22:11:14.245Z"
+  "updatedAt": "2026-10-04T22:16:35.140Z"
 }
