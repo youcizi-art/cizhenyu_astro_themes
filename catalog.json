@@ -6,7 +6,6 @@
   "themes": [
     {
       "id": "default",
-      "display_name": "default（磁帧鱼）",
       "label": "default（磁帧鱼）",
       "version": "20261004221522",
       "latest": "20261004221522",
@@ -34,7 +33,6 @@
     },
     {
       "id": "turmill",
-      "display_name": "turmill",
       "label": "turmill",
       "version": "20261004221631",
       "latest": "20261004221631",
