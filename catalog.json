@@ -8,11 +8,11 @@
       "id": "default",
       "display_name": "default（磁帧鱼）",
       "label": "default（磁帧鱼）",
-      "version": "20261003",
-      "latest": "20261003",
+      "version": "20261004",
+      "latest": "20261004",
       "hasSeed": true,
-      "sha256": "933e208f5ffe79a01ac4bd2f30adca8bb36f3586eb21881ef644725eac91ce91",
-      "path": "themes/default/20261003/bundle.zip"
+      "sha256": "65e003db8989b22b80cb406e171ad6616e648e08ad4812b8584219a377248021",
+      "path": "themes/default/20261004/bundle.zip"
     },
     {
       "id": "turmill",
