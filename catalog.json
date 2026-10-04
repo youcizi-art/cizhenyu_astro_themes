@@ -8,11 +8,22 @@
       "id": "default",
       "display_name": "default（磁帧鱼）",
       "label": "default（磁帧鱼）",
-      "version": "20261004",
-      "latest": "20261004",
+      "version": "20261004221108",
+      "latest": "20261004221108",
       "hasSeed": true,
-      "sha256": "65e003db8989b22b80cb406e171ad6616e648e08ad4812b8584219a377248021",
-      "path": "themes/default/20261004/bundle.zip"
+      "sha256": "5ab8bc5af7e6c126cf7cff6baa586a9dcb373bb721c0ff168c080b1b7a06ec85",
+      "path": "themes/default/20261004221108/bundle.zip",
+      "builtAt": "2026-10-04T22:11:14.178Z",
+      "versions": [
+        {
+          "version": "20261004221108",
+          "path": "themes/default/20261004221108/bundle.zip",
+          "sha256": "5ab8bc5af7e6c126cf7cff6baa586a9dcb373bb721c0ff168c080b1b7a06ec85",
+          "hasSeed": true,
+          "builtAt": "2026-10-04T22:11:14.178Z"
+        }
+      ],
+      "displayName": "default（磁帧鱼）"
     },
     {
       "id": "turmill",
@@ -22,7 +33,18 @@
       "latest": "20261003",
       "hasSeed": true,
       "sha256": "b6c75f7cb8bd658a3ea6a4657237ddbcf8e58919a0e86bcba1ae7951284b8829",
-      "path": "themes/turmill/20261003/bundle.zip"
+      "path": "themes/turmill/20261003/bundle.zip",
+      "builtAt": "2026-10-03T04:10:35.882Z",
+      "versions": [
+        {
+          "version": "20261003",
+          "path": "themes/turmill/20261003/bundle.zip",
+          "sha256": "b6c75f7cb8bd658a3ea6a4657237ddbcf8e58919a0e86bcba1ae7951284b8829",
+          "hasSeed": true,
+          "builtAt": "2026-10-03T04:10:35.882Z"
+        }
+      ]
     }
-  ]
+  ],
+  "updatedAt": "2026-10-04T22:11:14.245Z"
 }
