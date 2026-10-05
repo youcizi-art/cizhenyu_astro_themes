@@ -8,13 +8,20 @@
       "id": "default",
       "label": "default（磁帧鱼）",
       "displayName": "default（磁帧鱼）",
-      "version": "20261005061514",
-      "latest": "20261005061514",
+      "version": "20261005102425",
+      "latest": "20261005102425",
       "hasSeed": true,
-      "sha256": "5aeb5e752c0649cf2bd60c732e04860058ee8c5f3913ffeb102e3f37e51cc1f0",
-      "path": "themes/default/20261005061514/bundle.zip",
-      "builtAt": "2026-10-05T06:15:19.742Z",
+      "sha256": "6187fb103d28ac34d2a78f637432c9db3cf91a5859ebd99f59de2eb6518867a6",
+      "path": "themes/default/20261005102425/bundle.zip",
+      "builtAt": "2026-10-05T10:24:29.186Z",
       "versions": [
+        {
+          "version": "20261005102425",
+          "path": "themes/default/20261005102425/bundle.zip",
+          "sha256": "6187fb103d28ac34d2a78f637432c9db3cf91a5859ebd99f59de2eb6518867a6",
+          "hasSeed": true,
+          "builtAt": "2026-10-05T10:24:29.186Z"
+        },
         {
           "version": "20261005061514",
           "path": "themes/default/20261005061514/bundle.zip",
@@ -45,5 +52,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-05T06:15:19.807Z"
+  "updatedAt": "2026-10-05T10:24:29.247Z"
 }
