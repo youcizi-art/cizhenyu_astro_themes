@@ -7,50 +7,43 @@
     {
       "id": "default",
       "label": "default（磁帧鱼）",
-      "version": "20261004221522",
-      "latest": "20261004221522",
+      "displayName": "default（磁帧鱼）",
+      "version": "20261005012830",
+      "latest": "20261005012830",
       "hasSeed": true,
-      "sha256": "13b18c7fd222fdc6a7974f33f7c004c85cdd882de3cda7c64a35afe84c2ab53b",
-      "path": "themes/default/20261004221522/bundle.zip",
-      "builtAt": "2026-10-04T22:15:25.753Z",
+      "sha256": "aadcf3f255d47a0217ca99b701a5ced8ba051c02b423176289693823e1932857",
+      "path": "themes/default/20261005012830/bundle.zip",
+      "builtAt": "2026-10-05T01:28:34.426Z",
       "versions": [
         {
-          "version": "20261004221522",
-          "path": "themes/default/20261004221522/bundle.zip",
-          "sha256": "13b18c7fd222fdc6a7974f33f7c004c85cdd882de3cda7c64a35afe84c2ab53b",
+          "version": "20261005012830",
+          "path": "themes/default/20261005012830/bundle.zip",
+          "sha256": "aadcf3f255d47a0217ca99b701a5ced8ba051c02b423176289693823e1932857",
           "hasSeed": true,
-          "builtAt": "2026-10-04T22:15:25.753Z"
-        },
-        {
-          "version": "20261004221108",
-          "path": "themes/default/20261004221108/bundle.zip",
-          "sha256": "5ab8bc5af7e6c126cf7cff6baa586a9dcb373bb721c0ff168c080b1b7a06ec85",
-          "hasSeed": true,
-          "builtAt": "2026-10-04T22:11:14.178Z"
+          "builtAt": "2026-10-05T01:28:34.426Z"
         }
-      ],
-      "displayName": "default（磁帧鱼）"
+      ]
     },
     {
       "id": "turmill",
       "label": "turmill",
-      "version": "20261004221631",
-      "latest": "20261004221631",
+      "displayName": "turmill",
+      "version": "20261005012846",
+      "latest": "20261005012846",
       "hasSeed": true,
-      "sha256": "db5f20427bd795c753115e1125abd502a43c5e2d5abac0d9d5c1d5ddc99e9e99",
-      "path": "themes/turmill/20261004221631/bundle.zip",
-      "builtAt": "2026-10-04T22:16:35.080Z",
+      "sha256": "653c8e41c395045a010ea73d408c68323eb9f32d8f957c08651fead91a3edcb9",
+      "path": "themes/turmill/20261005012846/bundle.zip",
+      "builtAt": "2026-10-05T01:28:50.689Z",
       "versions": [
         {
-          "version": "20261004221631",
-          "path": "themes/turmill/20261004221631/bundle.zip",
-          "sha256": "db5f20427bd795c753115e1125abd502a43c5e2d5abac0d9d5c1d5ddc99e9e99",
+          "version": "20261005012846",
+          "path": "themes/turmill/20261005012846/bundle.zip",
+          "sha256": "653c8e41c395045a010ea73d408c68323eb9f32d8f957c08651fead91a3edcb9",
           "hasSeed": true,
-          "builtAt": "2026-10-04T22:16:35.080Z"
+          "builtAt": "2026-10-05T01:28:50.689Z"
         }
-      ],
-      "displayName": "turmill"
+      ]
     }
   ],
-  "updatedAt": "2026-10-04T22:16:35.140Z"
+  "updatedAt": "2026-10-05T01:28:50.747Z"
 }
