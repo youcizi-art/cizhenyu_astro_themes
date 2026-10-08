@@ -8,26 +8,26 @@
       "id": "default",
       "label": "default（磁帧鱼）",
       "displayName": "default（磁帧鱼）",
-      "version": "20261007022304",
-      "latest": "20261007022304",
+      "version": "20261008024016",
+      "latest": "20261008024016",
       "hasSeed": true,
-      "sha256": "940f93844be8f54e05babdb49f20949ac4b61e9621f7e70447adeed82bc0324f",
-      "path": "themes/default/20261007022304/bundle.zip",
-      "builtAt": "2026-10-07T02:23:09.245Z",
+      "sha256": "5cb54e69b26a7b35031f552e7dae261ef8e5c435c98c163fb43bab86b17a016c",
+      "path": "themes/default/20261008024016/bundle.zip",
+      "builtAt": "2026-10-08T02:40:23.963Z",
       "versions": [
+        {
+          "version": "20261008024016",
+          "path": "themes/default/20261008024016/bundle.zip",
+          "sha256": "5cb54e69b26a7b35031f552e7dae261ef8e5c435c98c163fb43bab86b17a016c",
+          "hasSeed": true,
+          "builtAt": "2026-10-08T02:40:23.963Z"
+        },
         {
           "version": "20261007022304",
           "path": "themes/default/20261007022304/bundle.zip",
           "sha256": "940f93844be8f54e05babdb49f20949ac4b61e9621f7e70447adeed82bc0324f",
           "hasSeed": true,
           "builtAt": "2026-10-07T02:23:09.245Z"
-        },
-        {
-          "version": "20261007000601",
-          "path": "themes/default/20261007000601/bundle.zip",
-          "sha256": "43a87f947bc238ea7bbfc1534d5fbb47e0ba2d89322fd5a74039f1e08b32ba41",
-          "hasSeed": true,
-          "builtAt": "2026-10-07T00:06:07.316Z"
         }
       ]
     },
@@ -52,5 +52,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-07T02:23:09.309Z"
+  "updatedAt": "2026-10-08T02:40:24.039Z"
 }
