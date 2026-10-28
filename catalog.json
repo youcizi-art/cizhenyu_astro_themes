@@ -8,19 +8,19 @@
       "id": "default",
       "label": "default（磁帧鱼）",
       "displayName": "default（磁帧鱼）",
-      "version": "20261015135822",
-      "latest": "20261015135822",
+      "version": "20261028020039",
+      "latest": "20261028020039",
       "hasSeed": true,
-      "sha256": "b1e6052201b7bb67931250595a3436150a153d705d7313096ab31e3b0a7b400d",
-      "path": "themes/default/20261015135822/bundle.zip",
-      "builtAt": "2026-10-15T13:58:27.612Z",
+      "sha256": "eae6ef7939ea5a9f8c849ee26ff5dd90e12e0ddfa3eaffbc3a9c53154afde584",
+      "path": "themes/default/20261028020039/bundle.zip",
+      "builtAt": "2026-10-28T02:00:43.258Z",
       "versions": [
         {
-          "version": "20261015135822",
-          "path": "themes/default/20261015135822/bundle.zip",
-          "sha256": "b1e6052201b7bb67931250595a3436150a153d705d7313096ab31e3b0a7b400d",
+          "version": "20261028020039",
+          "path": "themes/default/20261028020039/bundle.zip",
+          "sha256": "eae6ef7939ea5a9f8c849ee26ff5dd90e12e0ddfa3eaffbc3a9c53154afde584",
           "hasSeed": true,
-          "builtAt": "2026-10-15T13:58:27.612Z"
+          "builtAt": "2026-10-28T02:00:43.258Z"
         }
       ]
     },
@@ -28,13 +28,27 @@
       "id": "turmill",
       "label": "turmill",
       "displayName": "turmill",
-      "version": "20261013012000",
-      "latest": "20261013012000",
+      "version": "20261028015107",
+      "latest": "20261028015107",
       "hasSeed": true,
-      "sha256": "82d6d6ba21918c398fdfad38cad1cb42c20daeeaf23ce1d83f146626a5e55662",
-      "path": "themes/turmill/20261013012000/bundle.zip",
-      "builtAt": "2026-10-13T01:20:05.522Z",
+      "sha256": "111031604d2c044deafe24a67dc6e077b5c82d143c1a4bfb48dc5ce310d1acb3",
+      "path": "themes/turmill/20261028015107/bundle.zip",
+      "builtAt": "2026-10-28T01:51:11.423Z",
       "versions": [
+        {
+          "version": "20261028015107",
+          "path": "themes/turmill/20261028015107/bundle.zip",
+          "sha256": "111031604d2c044deafe24a67dc6e077b5c82d143c1a4bfb48dc5ce310d1acb3",
+          "hasSeed": true,
+          "builtAt": "2026-10-28T01:51:11.423Z"
+        },
+        {
+          "version": "20261028013702",
+          "path": "themes/turmill/20261028013702/bundle.zip",
+          "sha256": "95a80d2f180afa322e44b1015f4de263c35e015ae73c59bfa200fbadf88f8f95",
+          "hasSeed": true,
+          "builtAt": "2026-10-28T01:37:07.499Z"
+        },
         {
           "version": "20261013012000",
           "path": "themes/turmill/20261013012000/bundle.zip",
@@ -73,5 +87,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T13:58:27.675Z"
+  "updatedAt": "2026-10-28T02:00:43.325Z"
 }
