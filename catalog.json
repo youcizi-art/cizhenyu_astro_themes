@@ -25,6 +25,53 @@
       ]
     },
     {
+      "id": "theme-energy",
+      "label": "theme-energy",
+      "displayName": "theme-energy",
+      "version": "20261028210552",
+      "latest": "20261028210552",
+      "hasSeed": true,
+      "sha256": "10b05a0f07a04377f9fe1115381087e1a955dc2c1567885022b04ea32aa74d16",
+      "path": "themes/theme-energy/20261028210552/bundle.zip",
+      "builtAt": "2026-10-28T21:05:57.186Z",
+      "versions": [
+        {
+          "version": "20261028210552",
+          "path": "themes/theme-energy/20261028210552/bundle.zip",
+          "sha256": "10b05a0f07a04377f9fe1115381087e1a955dc2c1567885022b04ea32aa74d16",
+          "hasSeed": true,
+          "builtAt": "2026-10-28T21:05:57.186Z"
+        },
+        {
+          "version": "20261028210212",
+          "path": "themes/theme-energy/20261028210212/bundle.zip",
+          "sha256": "f6023c08a9bffe82106f65fc9a35908cfd59261766c36b2e388b64f9ec53788b",
+          "hasSeed": true,
+          "builtAt": "2026-10-28T21:02:16.980Z"
+        }
+      ]
+    },
+    {
+      "id": "theme-machinery",
+      "label": "theme-machinery",
+      "displayName": "theme-machinery",
+      "version": "20261028203735",
+      "latest": "20261028203735",
+      "hasSeed": true,
+      "sha256": "d7c26a76d2c2343b4f2eff4c7c16f1aaa40dc3f70a6f16c82f5a9c47a16288df",
+      "path": "themes/theme-machinery/20261028203735/bundle.zip",
+      "builtAt": "2026-10-28T20:37:41.720Z",
+      "versions": [
+        {
+          "version": "20261028203735",
+          "path": "themes/theme-machinery/20261028203735/bundle.zip",
+          "sha256": "d7c26a76d2c2343b4f2eff4c7c16f1aaa40dc3f70a6f16c82f5a9c47a16288df",
+          "hasSeed": true,
+          "builtAt": "2026-10-28T20:37:41.720Z"
+        }
+      ]
+    },
+    {
       "id": "turmill",
       "label": "turmill",
       "displayName": "turmill",
@@ -87,5 +134,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-28T02:00:43.325Z"
+  "updatedAt": "2026-10-28T21:05:57.254Z"
 }
