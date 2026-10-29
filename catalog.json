@@ -28,26 +28,19 @@
       "id": "theme-energy",
       "label": "theme-energy",
       "displayName": "theme-energy",
-      "version": "20261028210552",
-      "latest": "20261028210552",
+      "version": "20261029123921",
+      "latest": "20261029123921",
       "hasSeed": true,
-      "sha256": "10b05a0f07a04377f9fe1115381087e1a955dc2c1567885022b04ea32aa74d16",
-      "path": "themes/theme-energy/20261028210552/bundle.zip",
-      "builtAt": "2026-10-28T21:05:57.186Z",
+      "sha256": "179b95815e2b8f61d8d6512f7ef17ea6cfe08b8243734be147fc854a363c5264",
+      "path": "themes/theme-energy/20261029123921/bundle.zip",
+      "builtAt": "2026-10-29T12:39:27.252Z",
       "versions": [
         {
-          "version": "20261028210552",
-          "path": "themes/theme-energy/20261028210552/bundle.zip",
-          "sha256": "10b05a0f07a04377f9fe1115381087e1a955dc2c1567885022b04ea32aa74d16",
+          "version": "20261029123921",
+          "path": "themes/theme-energy/20261029123921/bundle.zip",
+          "sha256": "179b95815e2b8f61d8d6512f7ef17ea6cfe08b8243734be147fc854a363c5264",
           "hasSeed": true,
-          "builtAt": "2026-10-28T21:05:57.186Z"
-        },
-        {
-          "version": "20261028210212",
-          "path": "themes/theme-energy/20261028210212/bundle.zip",
-          "sha256": "f6023c08a9bffe82106f65fc9a35908cfd59261766c36b2e388b64f9ec53788b",
-          "hasSeed": true,
-          "builtAt": "2026-10-28T21:02:16.980Z"
+          "builtAt": "2026-10-29T12:39:27.252Z"
         }
       ]
     },
@@ -134,5 +127,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-28T21:05:57.254Z"
+  "updatedAt": "2026-10-29T12:39:27.311Z"
 }
