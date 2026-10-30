@@ -8,19 +8,19 @@
       "id": "default",
       "label": "default（磁帧鱼）",
       "displayName": "default（磁帧鱼）",
-      "version": "20261028020039",
-      "latest": "20261028020039",
+      "version": "20261030230746",
+      "latest": "20261030230746",
       "hasSeed": true,
-      "sha256": "eae6ef7939ea5a9f8c849ee26ff5dd90e12e0ddfa3eaffbc3a9c53154afde584",
-      "path": "themes/default/20261028020039/bundle.zip",
-      "builtAt": "2026-10-28T02:00:43.258Z",
+      "sha256": "acc684ab487c8ec9baa40694c67adf983bd600834a053196b1cca37bb6d70dfc",
+      "path": "themes/default/20261030230746/bundle.zip",
+      "builtAt": "2026-10-30T23:07:54.594Z",
       "versions": [
         {
-          "version": "20261028020039",
-          "path": "themes/default/20261028020039/bundle.zip",
-          "sha256": "eae6ef7939ea5a9f8c849ee26ff5dd90e12e0ddfa3eaffbc3a9c53154afde584",
+          "version": "20261030230746",
+          "path": "themes/default/20261030230746/bundle.zip",
+          "sha256": "acc684ab487c8ec9baa40694c67adf983bd600834a053196b1cca37bb6d70dfc",
           "hasSeed": true,
-          "builtAt": "2026-10-28T02:00:43.258Z"
+          "builtAt": "2026-10-30T23:07:54.594Z"
         }
       ]
     },
@@ -127,5 +127,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-29T12:39:27.311Z"
+  "updatedAt": "2026-10-30T23:07:54.684Z"
 }
